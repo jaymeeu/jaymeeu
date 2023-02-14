@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/jaymeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jaymeeu" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/jaymeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jaymeeu" height="30" width="40" /></a>
+<a href="https://codepen.io/jaymeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/jaymeeu" height="30" width="40" /></a>
+<a href="https://dev.to/jaymeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jaymeeu" height="30" width="40" /></a>
 <a href="https://twitter.com/abdulrasaq_jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulrasaq_jay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jamiu-adewuyi-abdulrasaq-b23725b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamiu-adewuyi-abdulrasaq-b23725b4/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@jaymeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@jaymeeu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jamiu-adewuyi-abdulrasaq-b23725b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamiu-adewuyi-abdulrasaq-b23725b4/" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jaymeeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@jaymeeu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
