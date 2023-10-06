@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaymeeu&label=Profile%20views&color=0e75b6&style=flat" alt="jaymeeu" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abdulrasaqjamiu.netlify.app/](https://abdulrasaqjamiu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abdulrasaqjamiu.netlify.app/](https://abdulrasaqjamiu.com/)
 
 - 📝 I regularly write articles on [https://dev.to/jaymeeu](https://dev.to/jaymeeu)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rasaqadewuyi@gmail.com**
 
-- 📄 Know about my experiences [https://abdulrasaqjamiu.netlify.app/](https://abdulrasaqjamiu.netlify.app/)
+- 📄 Know about my experiences [https://abdulrasaqjamiu.netlify.app/](https://abdulrasaqjamiu.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
