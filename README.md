@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/jaymeeu](https://dev.to/jaymeeu)
 
-- 💬 Ask me about **react, next, html, css**
+- 💬 Ask me about **software engineering**
 
 - 📫 How to reach me **rasaqadewuyi@gmail.com**
 
